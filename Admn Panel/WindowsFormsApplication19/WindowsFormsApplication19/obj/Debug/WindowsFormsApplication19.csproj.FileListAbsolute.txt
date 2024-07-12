@@ -1,0 +1,18 @@
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\saubhagya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\dasun bhagya\Documents\2nd sem project\2nd sem project\Admn Panel\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
